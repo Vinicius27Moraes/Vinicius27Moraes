@@ -15,7 +15,7 @@
 </p>
 ---
 👋 Sobre mim
-Atuo com desenvolvimento e estou aprofundando meus conhecimentos em DevOps, buscando automatizar processos e tornar entregas mais rápidas, seguras e confiáveis.
+Tenho conhecimento em infraestrutura e estou aprofundando meus conhecimentos em DevOps, buscando automatizar processos e tornar entregas mais rápidas, seguras e confiáveis.
 💼 Atualmente na DB1
 📚 Estudando: Docker, Kubernetes e práticas de CI/CD
 🎯 Foco em: automação, containers e infraestrutura como código
